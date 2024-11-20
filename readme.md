@@ -17,3 +17,5 @@ https://github.com/J-MaFf/common-powershell-functions.git
 ```
 
 ## Usage
+
+Use the functions as you see fit!
